@@ -1,0 +1,49 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "NiVZ",
+    "longName": "CLEAN",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:]",
+                "file": "fonts/gotham-book.ttf",
+                "name": "FONT_GOTHAM_BOOK_34",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[A-Z]",
+                "file": "fonts/gotham-book.ttf",
+                "name": "FONT_GOTHAM_BOOK_12",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9A-Z]",
+                "file": "fonts/gotham-book.ttf",
+                "name": "FONT_GOTHAM_BOOK_10",
+                "trackingAdjust": -2,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9]",
+                "file": "fonts/gotham-bold.ttf",
+                "name": "FONT_GOTHAM_BOLD_58",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "CLEAN",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "0bba8a04-8243-4b4a-816d-991771d99bfd",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
